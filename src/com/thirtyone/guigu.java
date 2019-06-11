@@ -1,14 +1,12 @@
 package com.thirtyone;
-
 import java.util.Scanner;
-
 public class guigu{
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.println("请输入一个数");
         int a=sc.nextInt();
         int a1=0;
-        for(;;){
+            for(;;){
             if(a%2==0){
                 a1=a/2;
             }else{
@@ -18,5 +16,4 @@ public class guigu{
             if(a==1)break;
         }
     }
-
 }
