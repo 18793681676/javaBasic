@@ -1,4 +1,4 @@
-package com.June.eleven;
+package com.neuedu;
 
  class Youjian {
     String name;

@@ -1,6 +1,6 @@
 package com.June.eleven;
 
-public class Work {
+public class Worker {
 
 
 
@@ -32,7 +32,7 @@ public class Work {
             this.salary = salary;
         }
 
-        public Work(String name, int age, double salary) {
+        public Worker(String name, int age, double salary) {
             this.name = name;
             this.age = age;
             this.salary = salary;
